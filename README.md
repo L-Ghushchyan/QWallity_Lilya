@@ -1,1 +1,1 @@
-# QWallity_Lilya
+# Manual Testing course
