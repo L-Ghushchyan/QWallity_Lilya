@@ -1,1 +1,1 @@
-# Manual Testing course
+# Qwallity
